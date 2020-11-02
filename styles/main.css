@@ -52,3 +52,24 @@ address {
   bottom: 6rem;
   right: 6rem;
 }
+
+.caution {
+  width: 15rem;
+  position: absolute;
+  top: 25rem;
+  left: 25rem;
+}
+
+.stamp {
+  position: absolute;
+  width: 8rem;
+  top: 6rem;
+  right: 2rem;
+}
+
+.sea-waves {
+  position: absolute;
+  width: 7rem;
+  top: 9.5rem;
+  right: 7rem;
+}
